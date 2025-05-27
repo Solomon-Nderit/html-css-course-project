@@ -1,0 +1,48 @@
+/* Common styles */
+    p {
+      font-family: Arial;
+      font-size: 14px;
+      color: rgb(96, 96, 96);
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+
+    .video-title {
+      font-size: 18px;
+      font-weight: bold;
+      width: 300px;
+      line-height: 24px;
+      margin-bottom: 5px;
+      color: initial;
+    }
+
+    .video-author {
+      margin-top: 15px;
+      margin-bottom: 10px;
+    }
+
+    .video-description {
+      line-height: 22px;
+      width: 300px;
+    }
+
+    .footnote {
+      background: rgb(241, 64, 64);
+      color: white;
+      font-size: 14px;
+      padding: 18px;
+      text-align: center;
+      font-family: Arial;
+      margin-top: 10px;
+      margin-bottom: 0px;
+    }
+
+    .link {
+      color: white;
+      text-decoration: none;
+    }
+
+    .link:hover {
+      text-decoration: underline;
+      cursor: pointer ;
+    }
